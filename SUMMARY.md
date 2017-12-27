@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [Important Dates](important_dates.md)
 * [NYU Wireless](nyu_wireless.md)
