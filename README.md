@@ -1,7 +1,6 @@
 # IDM Faculty Handbook
 
 * [Important Dates](important_dates.md)
-* [NYU ID](nyu_id.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Wireless](nyu_wireless.md)
 * [NYU Tandon School of Engineering](http://engineering.nyu.edu) \(formerly known as NYU Poly\)
