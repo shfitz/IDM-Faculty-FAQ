@@ -8,6 +8,8 @@ NYU School of Engineering Grad courses, which are normally 3 credit hours have b
 
 **This policy is complicated, so please read it through carefully.**  
 
+*De Angela's Note: The main thing to remember when reading this is that the final is counted separately than the classes. So if it reads 13 weeks, you should remember it is 13 weeks + a final. If it reads 14 weeks, you should remember it is 14 weeks + a final. Final in IDM means final project and/or final presentation or both.*
+
 NYU in general runs on a 14 week schedule, but the faculty and administration of the School of Engineering decided to retain the option of running undergraduate courses for 13 weeks within the framework of that schedule. The gravamen is that the published calendar is 14-weeks but Poly's class periods are a bit longer than at some other units of NYU, so that you may be able to satisfy course requirements  before the end of the 14th week.
 
 *The actual requirements for contact hours are denominated in minutes, including an extra 120 minutes for a final exam, whether or not you give a final.*
