@@ -26,7 +26,7 @@ https://www.nyu.edu/life/information-technology/instructional-technology-support
 ## What's the experience?
 ### What's it look like?
 
-![here's the interface](https://github.com/shfitz/IDM-Faculty-FAQ/edit/master/interface.png "interface")
+![here's the interface](https://raw.githubusercontent.com/shfitz/IDM-Faculty-FAQ/master/interface.png "interface")
 
 
 Leaving behind WebX, Zoom is new hotness. https://articulate.com/support/article/Articulate-360-FAQs-Rise Rise is the imterface for asynchronous content.
