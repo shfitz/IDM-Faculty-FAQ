@@ -11,6 +11,8 @@ there is synchromnous and asynchronous stuff. You are preparing the asynch conte
 
 Storyboards are important!
 
+Your class is not all about you. others will teach this and will be using your content. it shoudl be portable across other instructors.
+
 
 * people
 Jesse
