@@ -23,5 +23,7 @@ Some helpful links : https://nyu.service-now.com/servicelink/kb_search.do?id=KB0
 
 https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-classes/faculty-staff-training.html (NYU Classes
 
-What's it look like?
 
+## What's the experience?
+### What's it look like?
+![here's the interface](https://github.com/shfitz/IDM-Faculty-FAQ/edit/master/interface.png)
