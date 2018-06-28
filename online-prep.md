@@ -21,4 +21,7 @@ Scott
 
 Some helpful links : https://nyu.service-now.com/servicelink/kb_search.do?id=KB0016553 (zoom FAQ)
 
+https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-classes/faculty-staff-training.html (NYU Classes
+
 What's it look like?
+
