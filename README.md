@@ -1,4 +1,4 @@
-# IDM Faculty Handbook
+# IDM Online Faculty Handbook
 
 * [Important Dates](important_dates.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
