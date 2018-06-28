@@ -18,12 +18,24 @@ Laura
 Jenelle
 Scott
 
-
 Some helpful links : https://nyu.service-now.com/servicelink/kb_search.do?id=KB0016553 (zoom FAQ)
 
-https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-classes/faculty-staff-training.html (NYU Classes
+https://www.nyu.edu/life/information-technology/instructional-technology-support/instructional-technology-tools-and-services/nyu-classes/faculty-staff-training.html (NYU Classes)
 
 
 ## What's the experience?
 ### What's it look like?
 ![here's the interface](https://github.com/shfitz/IDM-Faculty-FAQ/edit/master/interface.png)
+
+
+Leaving behind WebX, Zoom is new hotness. https://articulate.com/support/article/Articulate-360-FAQs-Rise Rise is the imterface for asynchronous content.
+Use classes (post syllabus and use weekly announcements)
+add contet into weekly lesson pages
+
+Tandon Online how to use classes site for huge : https://sites.google.com/nyu.edu/addcontenttolessonspage/lessons?authuser=1
+
+Checklists 
+lesson pages https://docs.google.com/document/d/1n8KGAxAizJZwk_zyQn7UsXvT8vTOEx8BvfKX2yu-Ovs/edit?ts=5b351ca5
+accessability pages https://docs.google.com/document/d/1pkpTYjhhb7m1lVCpfmQf4f924_joWsNbxpVwwZzHiYM/edit?ts=5b351cd6
+start of semster checklist https://docs.google.com/document/d/1gLOTj5W82wVtiJE6wZYhVDEd0PcRxuddX1sejq0mA6w/edit?ts=5b351d0d
+syllabus checkllist https://docs.google.com/document/d/1JqWzfQjebmXmejXKg9QbHLAiNcfRUzHPrjgePIzByaM/edit?ts=5b351d3b
