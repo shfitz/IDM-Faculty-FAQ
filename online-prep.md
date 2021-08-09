@@ -5,7 +5,7 @@ Hello! Thanks for being part of IDM online. Preparing your class is a little mor
 You're going to be making a *multimedia* textbook that will include text, images, code and/or video.
 
 What's the process? 
-ID and ET meet with you to think through the content of your course. 
+Instructional Designers and Educational Technologists meet with you to help think through the content of your course and how to best present it. 
 
 there is synchromnous and asynchronous stuff. You are preparing the asynch content first, the synchronous is what happens when you interface with the students one-to-one.
 
