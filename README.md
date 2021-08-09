@@ -1,7 +1,6 @@
 # IDM Online Faculty Handbook
 
 * [Important Dates](important_dates.md)
-* [Online class prep](online-prep.md)
 * [Hiring Process / NYU ID](uploading_i9_and_tax_forms.md)
 * [NYU Tandon School of Engineering](http://engineering.nyu.edu) \(formerly known as NYU Poly\)
 * [TCS \(Technology, Culture & Society\)](tcs.md), IDM's parent department
